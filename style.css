@@ -1,0 +1,121 @@
+body{
+    background-color: #aeaeae;
+}
+.navbar{
+    background-color: #000000 !important;
+}
+.nav-link{
+    color: #ffffff !important;
+}
+.navbar-toggler-icon{
+    background-color: #d9534f !important;
+}
+.fa-user-o{
+    margin-left: 30px;
+    font-size: 20px !important;
+    color: #d9534f;
+}
+.border-bottom{
+    border-width: 5px !important;
+}
+.offers{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.offer{
+    display: flex;
+    width: 350px;
+    box-shadow: 2px 4px 5px #d9534f;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 15px;
+    text-align: center;
+    text-transform: capitalize;
+    background-color: #e0e0e0;
+    margin-top: 10px;
+}
+.offer img{
+    width: 30%;
+}
+.about .col-md-8{
+    background-color: #e0e0e0;
+    box-shadow: 2px 5px 5px #d9534f;
+    margin-top: 15px;
+}
+footer{
+    margin-top: 20px;
+    height: 60px;
+    background-color: #212121;
+    color: #ffffff;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+}
+footer h5{
+    
+    display: inline-block;
+    border-bottom: 1px solid #d9534f;
+    padding: 10px;
+    border-radius: 50%;
+}
+.active{
+    color: #d9534f !important;
+}
+.about p{
+    font-size: 20px;
+    color: #d9534f;
+    text-align: justify;
+}
+.services .box{
+    background-color: #e0e0e0;
+    box-shadow: 2px 5px 5px #ffffff;
+}
+.services .price{
+    background-color: #000000;
+    color: #ffffff;
+}
+.services .quote{
+    height: auto;
+    /* background-color: #8d8d8d; */
+    background-color: #212121;
+    box-shadow: 2px 5px 5px #d9534f;
+}
+.services h6{
+    color: #d9534f;
+}
+.services label{
+    color: #ffffff;
+    font-weight: bold;
+}
+.services input{
+    width: 100%;
+    padding: 2px;
+    font-weight: bold;
+}
+.services textarea{
+    width: 100%;
+}
+.fa-user-md{
+    font-size: 100px !important;
+}
+.card a{
+    margin: 5px;   
+ }
+.form{
+    box-shadow: 5px 5px 5px #a98274;
+    background-color: #efebe9;
+}
+.form input{
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid black;
+}
+.form .btn{
+    border: 1px solid  #d9534f !important;
+    color: #000000;
+}
